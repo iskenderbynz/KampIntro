@@ -28,6 +28,7 @@ namespace ClassIntro
                 Console.WriteLine(kurs.KursAdi);
             }
 
+            // switch kullanımı
             Console.WriteLine("1-5 arası bir sayı giriniz");
             string sayi = Console.ReadLine();
             switch (sayi)
@@ -56,7 +57,7 @@ namespace ClassIntro
                     Console.WriteLine("Belirtilen aralık dısında bir değer girdiniz.");
                     break;
             }
-            
+            // while döngüsü kullanımı
             int i = 0;
             int say = 10;
             while (i < say)
