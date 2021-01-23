@@ -6,13 +6,13 @@ namespace OOP2
     {
         static void Main(string[] args)
         {
-            //İskender Boynuz
+            //Engin Demiroğ
 
             GercekMusteri musteri1 = new GercekMusteri();
             musteri1.Id = 1;
             musteri1.MusteriNo = "12345";
-            musteri1.Adi = "İskender";
-            musteri1.Soyadi = "Boynuz";
+            musteri1.Adi = "Engin";
+            musteri1.Soyadi = "Demiroğ";
             musteri1.TcNo = "22222222222";
 
             //Kodlama.io
