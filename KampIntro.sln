@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{208CEDE7-41AC-4600-B546-80FEA182F09A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{0F191983-98AB-4BE9-9AC8-1E67B67DB57C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{0F191983-98AB-4BE9-9AC8-1E67B67DB57C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{72A484B0-687F-47BD-87CC-02A741D1CCF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{72A484B0-687F-47BD-87CC-02A741D1CCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BesGunTekrar", "BesGunTekrar\BesGunTekrar.csproj", "{5E5AEC9A-D685-49ED-AC2B-47B7AA82F328}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{72A484B0-687F-47BD-87CC-02A741D1CCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72A484B0-687F-47BD-87CC-02A741D1CCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72A484B0-687F-47BD-87CC-02A741D1CCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5AEC9A-D685-49ED-AC2B-47B7AA82F328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5AEC9A-D685-49ED-AC2B-47B7AA82F328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5AEC9A-D685-49ED-AC2B-47B7AA82F328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5AEC9A-D685-49ED-AC2B-47B7AA82F328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
